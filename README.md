@@ -1,1 +1,6 @@
-# Stroke-Prediction
+**Stroke Prediction(Felç Tahmini) Uygulaması**
+
+
+
+
+
